@@ -1,1 +1,1 @@
-# translatable-landing-page
+# Translatable Article
